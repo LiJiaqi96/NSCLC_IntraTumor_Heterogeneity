@@ -5,3 +5,8 @@ We applied pixel-level clustering and observed 3 different image patterns among 
 
 Here we show the complete results of all 200 patients in the unpublished paper "Pixel-Level Clustering Reveals Intra-Tumor Heterogeneity in Non-Small Cell Lung Cancer".
 
+Overview of patient number within each pattern:
+
+uni-core | multi-core | diffused  
+--- | --- | --- 
+ 33 |  7  | 160 
